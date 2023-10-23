@@ -8,7 +8,8 @@
     "ACTIONS": {
       "CREATE": "Create",
       "REMOVE": "Entfernen",
-      "DELETE": "Löschen"
+      "DELETE": "Löschen",
+      "DUPLICATE": "Duplikat"
     }
   },
   "SETTINGS": {
